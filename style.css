@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+* {
+  font-family: 'Kanit';
+}
+
+#example {
+  font-size: 14px; /* Set the font size for the entire table */
+}
+
+#example th {
+  font-size: 16px; /* Set the font size for header and data cells */
+}
+
+#example td {
+  font-size: 14px; /* Set the font size for header and data cells */
+}
+
+#example_paginate {
+  font-size: 14px; /* Set the font size for pagination controls */
+}
